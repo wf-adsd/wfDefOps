@@ -1,0 +1,5 @@
+/Applications/MAMP/htdocs/cSharpe/cSharpe/cSharpe/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Applications/MAMP/htdocs/cSharpe/cSharpe/cSharpe/bin/Debug/cSharpe.exe.mdb
+/Applications/MAMP/htdocs/cSharpe/cSharpe/cSharpe/bin/Debug/cSharpe.exe
+/Applications/MAMP/htdocs/cSharpe/cSharpe/cSharpe/obj/x86/Debug/cSharpe.exe
+/Applications/MAMP/htdocs/cSharpe/cSharpe/cSharpe/obj/x86/Debug/cSharpe.exe.mdb
